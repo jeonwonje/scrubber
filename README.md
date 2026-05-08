@@ -2,7 +2,7 @@
 
 A solar-powered air-quality monitoring station built on an Arduino MKR1000. Reads particulate matter, temperature, and humidity, then pushes the values to ThingSpeak over Wi-Fi.
 
-![Station](air-pollution-index-station.jpg)
+![Station](scrubber.jpg)
 
 ## Features
 
